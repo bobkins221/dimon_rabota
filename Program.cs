@@ -1,1 +1,1 @@
-﻿Console.WriteLine("time mime");
+﻿Console.WriteLine("lol kaka");
