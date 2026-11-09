@@ -1,1 +1,1 @@
-﻿Console.WriteLine("lol kaka");
+﻿Console.WriteLine("close");
