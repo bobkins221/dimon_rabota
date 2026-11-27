@@ -1,13 +1,13 @@
 ﻿// Console.WriteLine("kak tebya zovyt?");
 // string name = Console.ReadLine();
 // Console.WriteLine($"Hello {name}");   --- ЭТО ИНТЕРПОЛЯЦИЯ
-Console.WriteLine("как тебя зовут?");
+Console.WriteLine("Имя:");
 string name = Console.ReadLine();
-Console.WriteLine("какое любимое занятие?");
+Console.WriteLine("Любимое занятие:");
 string hobby = Console.ReadLine();
-Console.WriteLine($"Привет {name}");
-Console.WriteLine($"Любиоме занятие - {hobby}");
-Console.WriteLine("какой любимый город?");
+Console.WriteLine("Любимый город:");
 string gorod = Console.ReadLine();
-Console.WriteLine($"Привет {name}");
-Console.WriteLine($"Твой любимый город - {gorod}");
+Console.WriteLine($"---Моя Анкета---");
+Console.WriteLine($"Имя : {name}");
+Console.WriteLine($"Любимое занятие : {hobby}");
+Console.WriteLine($"Любимый город : {gorod}");
